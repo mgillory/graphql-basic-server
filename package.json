@@ -2,9 +2,9 @@
   "name": "graph",
   "version": "1.0.0",
   "description": "Simple GraphQL Server",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
-    "dev-server": "nodemon server.js"
+    "dev-server": "nodemon src/server.js"
   },
   "author": "Matheus Freitas",
   "license": "MIT",
